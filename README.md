@@ -15,3 +15,12 @@ Constraints para ser considerado API REST:
 - código sob demanda;
 - representações (formato no qual o cliente solicita no momento);
 - Hypermedia as the Engine of Application State (Hateoas) - permite que a partir de um determinado recurso, é demonstrado as futuras ações a partir do estado atual;
+
+Hypertext Transfer Protocol (HTTP): Modelo request/response 
+Física;
+Enlace;
+Rede IP (camada responsável for fazer com que a informação saia de um lugar e chega até outro);
+Transporte TCP (identificar qual aplicaçaõ na qual se deseja comunicar);
+Aplicação HTTP (codifica/configura o que a aplicação vai fazer);
+
+Universal Resource Identifier (URI).
