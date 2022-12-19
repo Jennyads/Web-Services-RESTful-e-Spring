@@ -73,6 +73,13 @@ Objeto
 }
 
 ```
+Modelo de Maturidade Richardson:
+
+** Nível 0: POX - Plain Old XML:
+* Modelo RPC (exposição para execução de métodos remotos);
+* HTTP apenas como transporte;
+* Semelhante ao uso de SOAP ou XML-RPC;
+
 
 
 
