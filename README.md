@@ -24,3 +24,19 @@ Transporte TCP (identificar qual aplicaçaõ na qual se deseja comunicar);
 Aplicação HTTP (codifica/configura o que a aplicação vai fazer);
 
 Universal Resource Identifier (URI).
+
+Métodos e respotas HTTP
+
+* GET - utilizado quando existe a necessidade de se obter um recurso;
+* POST - utiliza-se o método POST quando deseja criar um recurso;
+* PUT - semelhante ao método POST, esse método permite atualizar um recurso já existente;
+* DELETE - é utilizado quando existe a necessidade de remoção de um recurso;
+
+Respostas: 
+1xx: informações gerais;
+2xx: sucesso;
+3xx: redicerionamento;
+4xx: erro no cliente;
+5xx: erro no servidor;
+
+
