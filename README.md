@@ -92,3 +92,8 @@ observação: nesse nível, usa-se verbos para obter a URI.
   <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/n%C3%ADvel%202.png">
 </p>
 
+Nesse nível tem o recurso mapeado de forma correta, o método HTTP sendo aplicado de forma correta e as respotas HTTP sendo tratadas de forma correta. Sai do modelo RPC e entra no modelo de comunicação utilizando recursos.
+<p align="center">
+  <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/nivel%202%20metodo.png">
+</p>
+
