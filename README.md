@@ -83,6 +83,12 @@ Modelo de Maturidade Richardson:
 <p align="center">
   <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/niveo%200.png">
 </p>
+observação: nesse nível, usa-se verbos para obter a URI.
 
+** Nível 1 - Já consegue mapear recursos.
 
+** Nível 2: Utilização dos métodos e respostas do protocolo HTTP de forma adequada.
+<p align="center">
+  <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/n%C3%ADvel%202.png">
+</p>
 
