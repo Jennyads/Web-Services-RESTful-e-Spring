@@ -80,7 +80,9 @@ Modelo de Maturidade Richardson:
 * HTTP apenas como transporte;
 * Semelhante ao uso de SOAP ou XML-RPC;
 
-
+<p align="center">
+  <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/niveo%200.png">
+</p>
 
 
 
