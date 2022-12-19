@@ -97,3 +97,5 @@ Nesse nível tem o recurso mapeado de forma correta, o método HTTP sendo aplica
   <img width="500" src="https://github.com/Jennyads/Web-Services-RESTful-e-Spring/blob/main/Imagens/nivel%202%20metodo.png">
 </p>
 
+** Nível 3 - Hypermedia (na prática é díicil chegar nesse nível). 
+
