@@ -32,11 +32,48 @@ Métodos e respotas HTTP
 * PUT - semelhante ao método POST, esse método permite atualizar um recurso já existente;
 * DELETE - é utilizado quando existe a necessidade de remoção de um recurso;
 
-Respostas: 
-1xx: informações gerais;
-2xx: sucesso;
-3xx: redicerionamento;
-4xx: erro no cliente;
-5xx: erro no servidor;
+Respostas:
+* 1xx: informações gerais;
+* 2xx: sucesso;
+* 3xx: redicerionamento;
+* 4xx: erro no cliente;
+* 5xx: erro no servidor;
+
+JSON - JavaScript Object Notation: formato para intercâmbio de dados.
+Notação: sistema de caracteres para representar dados, por exemplo, número e palavras. 
+Portabilidade: transmite informações independente de tecnologia utilizada.
+Facilidade de entendimento: representa dados de maneira padronizada em relação aos conceitos universais de programação.
+
+
+```
+Sintaxe:
+
+Objeto
+[
+{
+"nome": "Workshop Rest",
+"instrutor": "Emílio Dias",
+"duracao": "6hrs"
+},
+{
+"nome": "Workshop Rest",
+"instrutor": "Normandes Junior",
+"duracao": "6hrs"
+}
+]
+
+* Nesse caso, o objeto JSON possui 3 atributos (chave-valor). Além disso, adicionou-se as listas de informações, nesse caso, uma lista com 2 objetos.
+
+*Números, Strings, Objetos e Booleanos:
+{
+"nome": "Workshop Rest",
+"instrutor": {"nome": "Normandes Junior"},  //dentro de um objeto é possível ter um atributo que também é um objeto.
+"duracao": 6,
+"ativo": true
+}
+
+```
+
+
 
 
