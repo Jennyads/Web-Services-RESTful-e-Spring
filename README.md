@@ -114,3 +114,7 @@ Recursos:
 * Forneçe recursos prontos para produção, como métricas, verificações de integridade e configuração externa;
 
 * Absolutamente nenhuma geração de código e nenhum requisito para configuração XML;
+
+<h5> Rest com Spring MVC </h5>
+Padrão MVC: é aquele que permite separar as responsailidades entre modelo, visão e controlador.
+
