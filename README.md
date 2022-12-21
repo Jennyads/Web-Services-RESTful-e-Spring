@@ -99,3 +99,18 @@ Nesse nível tem o recurso mapeado de forma correta, o método HTTP sendo aplica
 
 ** Nível 3 - Hypermedia (na prática é díicil chegar nesse nível). 
 
+<h4> Spring Boot </h4>
+O Spring Boot facilita a criação de aplicativos autônomos baseados em Spring de nível de produção que se pode "simplesmente executar".
+
+Recursos:
+* Cria aplicativos Spring independentes;
+
+* Incorpora Tomcat, Jetty ou Undertow diretamente (sem necessidade de implantar arquivos WAR);
+
+* Forneçe dependências 'starter' opinativas para simplificar a configuração de compilação;
+
+* Configura automaticamente bibliotecas Spring e de terceiros sempre que possível;
+
+* Forneçe recursos prontos para produção, como métricas, verificações de integridade e configuração externa;
+
+* Absolutamente nenhuma geração de código e nenhum requisito para configuração XML;
